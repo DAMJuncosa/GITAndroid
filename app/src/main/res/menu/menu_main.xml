@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Les últimes API ignoren el showAsAction -->
+    <item android:id="@+id/mOpcio1" android:icon="@android:drawable/ic_menu_add" android:title="@string/opcio_1"/>
+</menu>

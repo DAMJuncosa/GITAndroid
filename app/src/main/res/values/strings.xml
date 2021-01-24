@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Evaluable activity UF1</string>
+    <string name="no_conexio">You dont have conection to internet</string>
+    <string name="opcio_1">About us</string>
+</resources>

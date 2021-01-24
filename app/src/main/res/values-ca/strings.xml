@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activitat avaluable UF1</string>
+    <string name="no_conexio">No tens connexió a Internet</string>
+    <string name="opcio_1">Nosaltres</string>
+</resources>
